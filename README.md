@@ -12,7 +12,7 @@
 ### 🌐 Bağlantılar & İletişim
 [![GitHub](https://img.shields.io/badge/GitHub-erkutresul-181717?style=flat-square&logo=github)](https://github.com/erkutresul)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2391--9525-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2391-9525)
-[![DergiPark](https://img.shields.io/badge/DergiPark-Erkut_Resulo%C4%9Flu-9E0038?style=flat-square)](https://dergipark.org.tr/tr/pub/@erkutresul)
+[![DergiPark](https://img.shields.io/badge/DergiPark-erkutresul-9E0038?style=flat-square)](https://dergipark.org.tr/tr/pub/@erkutresul)
 
 ---
 
