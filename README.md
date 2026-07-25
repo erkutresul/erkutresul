@@ -1,30 +1,41 @@
 <div align="center">
-# Erkut RESULOĞLU
+<h1>Erkut RESULOĞLU</h1>
 
-> *"Dilde, fikirde, işte birlik!"*
+<p><em>"Dilde, fikirde, işte birlik!"</em></p>
 
----
+` Çağdaş Türk Lehçeleri ` • ` Türk Dili ` • ` Yabancılara Türkçe Öğretimi `
 
-### 🎓 Uzmanlık Alanları
-`Çağdaş Türk Lehçeleri` • `Türk Dili` • `Yabancılara Türkçe Öğretimi`
-
----
-
-### 🌐 Bağlantılar & İletişim
-[![GitHub](https://img.shields.io/badge/GitHub-erkutresul-181717?style=flat-square&logo=github)](https://github.com/erkutresul)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2391--9525-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2391-9525)
 [![DergiPark](https://img.shields.io/badge/DergiPark-erkutresul-9E0038?style=flat-square)](https://dergipark.org.tr/tr/pub/@erkutresul)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2391--9525-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2391-9525)
 
 </div>
 
-### 📖 Bilimsel Etkinlikler ve Bildiriler
-- **II. Uluslararası Dil Araştırmaları Sempozyumu: Türkçe Sesbilgisi Terminolojisi** (Bildiri Sunumu)  
-  *Eskişehir Osmangazi Üniversitesi Sözlükbilimi Uygulama ve Araştırma Merkezi* — Haziran 2026
+<div align="center">
+<h2>Bilimsel Faaliyetler</h2>
+</div>
 
-- **III. Uluslararası Bilim, Yazı ve Edebiyat Dili Olarak Türkçe Sempozyumu** (Bildiri Sunumu - Çevrim içi)  
-  Mayıs 2026
+<p>
+<strong>II. Uluslararası Dil Araştırmaları Sempozyumu: Türkçe Sesbilgisi Terminolojisi</strong><br>
+Eskişehir Osmangazi Üniversitesi Sözlükbilimi Uygulama ve Araştırma Merkezi<br>
+<em>Bildiri Sunumu</em>
+</p>
 
----
+<p>
+<strong>III. Uluslararası Bilim, Yazı ve Edebiyat Dili Olarak Türkçe Sempozyumu</strong><br>
+Bilimdili Derneği<br>
+<em>Bildiri Sunumu</em>
+</p>
+
+<div align="center">
+<h2>Eğitim</h2>
+</div>
+
+<p>
+<strong>Yüksek Lisans</strong><br>
+Çağdaş Türk Lehçeleri ve Edebiyatları (2019 - 2021)<br>
+<em>Afyon Kocatepe Üniversitesi Sosyal Bilimler Enstitüsü</em><br>
+<strong>Tez:</strong> “Sarinci-Bököy ve Cañıl Mırza Destanlarının Bağlamsal Sözlüğü”
+</p>
 
 ### 🎓 Eğitim Bilgileri
 - **Yüksek Lisans:** Çağdaş Türk Lehçeleri ve Edebiyatları (2019 - 2021)  
