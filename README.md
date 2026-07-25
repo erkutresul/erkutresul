@@ -16,7 +16,7 @@
 
 <p>
 <strong>II. Uluslararası Dil Araştırmaları Sempozyumu: Türkçe Sesbilgisi Terminolojisi</strong><br>
-Eskişehir Osmangazi Üniversitesi Sözlükbilimi Uygulama ve Araştırma Merkezi<br>
+Eskişehir Osmangazi Üniversitesi, Sözlükbilimi Uygulama ve Araştırma Merkezi<br>
 <em>Bildiri Sunumu</em>
 </p>
 
