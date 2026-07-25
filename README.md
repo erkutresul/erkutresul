@@ -17,13 +17,13 @@
 <p>
 <strong>II. Uluslararası Dil Araştırmaları Sempozyumu: Türkçe Sesbilgisi Terminolojisi</strong><br>
 Eskişehir Osmangazi Üniversitesi, Sözlükbilimi Uygulama ve Araştırma Merkezi<br>
-<em>Bildiri Sunumu</em>
+<em>Bildiri</em>
 </p>
 
 <p>
 <strong>III. Uluslararası Bilim, Yazı ve Edebiyat Dili Olarak Türkçe Sempozyumu</strong><br>
 Bilimdili Derneği<br>
-<em>Bildiri Sunumu</em>
+<em>Bildiri</em>
 </p>
 
 <small>© 2026</small>
