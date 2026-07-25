@@ -1,3 +1,4 @@
+<div align="center">
 # Erkut RESULOĞLU
 
 > *"Dilde, fikirde, işte birlik!"*
@@ -14,7 +15,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2391--9525-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2391-9525)
 [![DergiPark](https://img.shields.io/badge/DergiPark-erkutresul-9E0038?style=flat-square)](https://dergipark.org.tr/tr/pub/@erkutresul)
 
----
+</div>
 
 ### 📖 Bilimsel Etkinlikler ve Bildiriler
 - **II. Uluslararası Dil Araştırmaları Sempozyumu: Türkçe Sesbilgisi Terminolojisi** (Bildiri Sunumu)  
