@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<h2>Bilimsel Faaliyetler</h2>
+<h2>Bildiriler</h2>
 </div>
 
 <p>
@@ -26,32 +26,4 @@ Bilimdili Derneği<br>
 <em>Bildiri Sunumu</em>
 </p>
 
-<div align="center">
-<h2>Eğitim</h2>
-</div>
-
-<p>
-<strong>Yüksek Lisans</strong><br>
-Çağdaş Türk Lehçeleri ve Edebiyatları (2019 - 2021)<br>
-<em>Afyon Kocatepe Üniversitesi Sosyal Bilimler Enstitüsü</em><br>
-<strong>Tez:</strong> “Sarinci-Bököy ve Cañıl Mırza Destanlarının Bağlamsal Sözlüğü”
-</p>
-
-### 🎓 Eğitim Bilgileri
-- **Yüksek Lisans:** Çağdaş Türk Lehçeleri ve Edebiyatları (2019 - 2021)  
-  *Afyon Kocatepe Üniversitesi Sosyal Bilimler Enstitüsü*  
-  *Tez:* “Sarinci-Bököy ve Cañıl Mırza Destanlarının Bağlamsal Sözlüğü”
-
-- **Lisans:** Çağdaş Türk Lehçeleri ve Edebiyatları (2014 - 2018)  
-  *Uşak Üniversitesi Fen Edebiyat Fakültesi*
-
----
-
-### 📜 Sertifikalar ve Eğitimler
-- **Veri Analizi Okulu** — *Marmara Üniversitesi Nüfus ve Sosyal Araştırmalar Enstitüsü* (2025 - 2026)
-- **Python Sertifika Eğitim Programı** — *Ege Üniversitesi Sürekli Eğitim Merkezi* (2025)
-- **Pedagojik Formasyon Sertifika Programı** — *Uşak Üniversitesi* (2019)
-- **Türkçenin Yabancı Dil Olarak Eğitimi Sertifika Programı** — *Marmara Üniversitesi Sürekli Eğitim Merkezi* (2018)
-
----
-© 2026 Erkut RESULOĞLU
+<small>© 2026</small>
