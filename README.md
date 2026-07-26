@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<h2>Bildiriler</h2>
+<h2>Akademik Çalışmalar</h2>
 </div>
 
 <p>
