@@ -5,8 +5,7 @@
 
 ` Çağdaş Türk Lehçeleri ` • ` Türk Dili ` • ` Yabancılara Türkçe Öğretimi `
 
-[![DergiPark](https://img.shields.io/badge/DergiPark-erkutresul-9E0038?style=flat-square)](https://dergipark.org.tr/tr/pub/@erkutresul)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2391--9525-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2391-9525)
+[![DergiPark](https://img.shields.io/badge/DergiPark-erkutresul-9E0038?style=flat-square)](https://dergipark.org.tr/tr/pub/@erkutresul) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2391--9525-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2391-9525)
 
 </div>
 
